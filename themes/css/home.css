@@ -179,7 +179,7 @@ img.full_height {
     height: 62px;
     width: 100%;
     min-width: 1000px;
-    background-color: #0f0737;
+    background-color: #65646e;
     position: fixed;
     top: 0;
     left: 0;
@@ -197,9 +197,9 @@ img.full_height {
 }
 
 .header .logo {
-    width: 200px;
-    height: 40px;
-    padding: 11px 0 11px 80px;
+    width: 180px;
+    height: 60px;
+    padding: 0px 0 11px 80px;
     display: inline-block
 }
 
